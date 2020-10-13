@@ -15,7 +15,7 @@ Exemplos:
 
                 points.Add(new PointRequest
                 {
-                    Address = "Rua Belem, 234 - Belenzinho, São Paulo - SP, Brasil",
+                    Address = "R. Guamiranga, 1140 - Vila Independencia, São Paulo - SP, 04220-020",
                     ContactPerson = new ContactPerson
                     {
                         Name = "Fulano",
@@ -25,10 +25,10 @@ Exemplos:
 
                 points.Add(new PointRequest
                 {
-                    Address = "Rua Jacirendi, 91 - Tatuapé, São Paulo - SP, Brasil",
+                    Address = "Av. Paulista, 1439 - 12 - Bela Vista, São Paulo - SP, 01310-100",
                     ContactPerson = new ContactPerson
                     {
-                        Name = "Fulano",
+                        Name = "Ciclano",
                         Phone = "11999999999"
                     }
                 });
