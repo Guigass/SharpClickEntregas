@@ -18,8 +18,8 @@ Exemplos:
                     Address = "Rua Belem, 234 - Belenzinho, São Paulo - SP, Brasil",
                     ContactPerson = new ContactPerson
                     {
-                        Name = "Guilherme",
-                        Phone = "11999960923"
+                        Name = "Fulano",
+                        Phone = "11999999999"
                     }
                 });
 
@@ -28,8 +28,8 @@ Exemplos:
                     Address = "Rua Jacirendi, 91 - Tatuapé, São Paulo - SP, Brasil",
                     ContactPerson = new ContactPerson
                     {
-                        Name = "Guilherme",
-                        Phone = "11999960923"
+                        Name = "Fulano",
+                        Phone = "11999999999"
                     }
                 });
 
