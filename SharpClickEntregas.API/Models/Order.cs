@@ -7,7 +7,7 @@ namespace SharpClickEntregas.API.Models
 {
     public partial class Order
     {
-        [JsonProperty("order_id")]
+        [JsonProperty("order_id", NullValueHandling = NullValueHandling.Ignore)]
         public long OrderId { get; set; }
 
         [JsonProperty("order_name")]
